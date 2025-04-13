@@ -10,6 +10,9 @@ examples/test_output
 .test.text
 test.text
 
+documents/
+
+
 .venv
 venv
 
